@@ -1,0 +1,26 @@
+Name: Jatin Puri
+ID: 2008B4A7576G
+Mob # 9604438132
+email: purijatin@gmail.com
+
+The GraphS library used in the test is made by me and is available to use under MIT License. 
+
+The code is already compiled. To run:
+To compile manually :
+	1) goto src folder in cmd prompt.
+	cd src
+	java LabTest
+
+	To recomplile:
+	1) goto src folder in cmd prompt.
+	cd src
+	cd Graph
+	javac *.java
+	cd ..
+	javac *.java
+
+	To run: 
+	java LabTest
+
+To compile and run in eclipse:
+	Just Import the whole folder in the workspace. Once done you are free to use and run.
